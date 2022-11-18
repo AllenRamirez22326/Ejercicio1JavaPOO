@@ -1,0 +1,20 @@
+calcule 2+2,artimetica,1,4,Piensa en cosas físicas
+encuentre x en x+5=2,ecuaciones,2,-3,Ten cuidado con los signos
+calcule 7+9,aritmetica,1,16,Piensa en cosas físicas
+calcule 12*15,aritmetca ,2,180,"Multiplica largo, o separa en multiplicaciones más simples"
+calcule 25/2,aritmetica,2,12.5,Utiliza la técnica de división larga
+encuentre x en x^2-1=0,ecuaciones,3,1,Recuerda operaciones inversas
+encuentre x en 4*x+2=2,ecuaciones,2,0,"Recuerda que es una igualdad, lo que se agrega de un lado se agrega del otro"
+encuentre x en ax= 1,algebra,4,1/a,Un despeje no necesariamente necesita de valores
+extienda (a+b)^2,algebra,4,a^2+2ab+b^2,Recuerda los productos notables
+encuentre x en x^2+1=0,ecuaciones,5,i,¿Una raíz negativa? Utiliza numeros imaginarios
+factorice x^2+4x+4,factorizacion,4,(x+2)(x+2),Trinomio cuadrado perfecto
+despeje c de c+d+3b=2a,ecuaciones,5,2a-d-3b,"Recuerda que es una igualdad, lo que se agrega de un lado se agrega del otro"
+cuantos grados es pi radianes,trigonometria,4,180,"Recuerda 1 pi radian equivale a media vuelta, 180 grados"
+cuantos grados es pi/2 radianes,trigonometria,4,90,"Recuerda 1 pi radian equivale a media vuelta, 180 grados"
+cuantos grados es pi/6 radianes,trigonometria,4,30,"Recuerda 1 pi radian equivale a media vuelta, 180 grados"
+Intercepto con el eje y de la función y=ax+b,funciones,5,b,Recuerda que la ecuacion de una recta está de la forma y = pendiente*x + intercepto
+calcule ln(e),aritmetica,5,1,Recuerda la relación entre logaritmo y potencia
+calcule sin(pi/2),trigonometria,5,1,Si no sabes los angulos especiales
+calcule cos(pi/2),trigonometria,5,0,Si no sabes los angulos especiales
+calcule tan(pi),trigonometria,5,0,Si no sabes los angulos especiales
